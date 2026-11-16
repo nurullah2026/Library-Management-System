@@ -1,2 +1,2 @@
 # Library-Management-System
-Building a website for managing a library smoothly.
+Building a website for managing a library smoothly. CSE103 Lab Project.
